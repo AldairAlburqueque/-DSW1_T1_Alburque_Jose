@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\DSW1_T1_Alburqueque_Jose.props" />
-</Project>
