@@ -1,0 +1,6 @@
+@DSW1_T1_Alburqueque_Jose_HostAddress = http://localhost:5023
+
+GET {{DSW1_T1_Alburqueque_Jose_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
